@@ -1,6 +1,6 @@
 ---
 name: sonne-mond-zahlen
-version: 0.1.0
+version: 0.2.0
 description: >
   Sonne-Mond-Zahlkörper: ein Zahlkörper, der isomorph zu den komplexen Zahlen ist,
   mit Sonne als Einheit und Mond als imaginärer Einheit (Mond·Mond = −Sonne).
@@ -88,4 +88,4 @@ Die Körpergesetze gelten wie in $\mathbb{C}$: Addition und Multiplikation sind 
 - Der Körper kennt **nur** Sonne, Mond und reelle Koeffizienten. Andere Symbole sind darin nicht definiert. Solche Ausdrücke nicht umdeuten, sondern darauf hinweisen, dass sie keine Sonne-Mond-Rechnung sind.
 - Division durch $0$ ist nicht definiert.
 
-*Demo-Skill des Demo-Assistenten `astronom` von AIbex AIOS.*
+*Demo-Skill des Demo-Assistenten `astronom` von AIbex AIBOS.*
